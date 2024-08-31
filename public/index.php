@@ -3,7 +3,7 @@ require __DIR__ . '/../vendor/autoload.php';
 
 use Slim\Factory\AppFactory;
 
-// Crea la aplicación
+// Crea la aplicación y funcionalidad
 $app = AppFactory::create();
 
 // Cargar las rutas
